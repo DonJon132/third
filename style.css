@@ -88,15 +88,15 @@ section .content p{
   transition: 1s;
   opacity: 0;
   text-align: right;
-  padding-left: 55%;
+  padding-left: 60%;
   text-align: justify;
   float: right;
 }
 #one{
   width: 700px;
   height: 450px;
-  margin-top: -230px;
-  margin-left: -130px;
+  margin-top: -340px;
+  margin-left: -100px;
   margin-bottom: 0px;
   float: left;
   transition: 1s;
@@ -105,9 +105,9 @@ section .content p{
 #two{
   width: 880px;
   height: 750px;
-  margin-top: -380px;
+  margin-top: -600px;
   margin-left: -180px;
-  margin-bottom: 0px;
+  margin-bottom: 100px;
   float: left;
   transition: 1s;
   opacity: 0;
@@ -117,7 +117,7 @@ section .content p{
   height: 600px;
   float: center;
   margin-left: 60px;
-  margin-top: 0px;
+  margin-top: -100px;
   transition: 0s;
   opacity: 1;
 }
@@ -209,14 +209,14 @@ section .content1 p{
   transition: 1s;
   opacity: 0;
   text-align: left;
-  padding-right: 55%;
+  padding-right: 60%;
   text-align: justify;
 }
 section .content1 img{
   width: 880px;
   height: 490px;
-  margin-top: -230px;
-  margin-bottom: 0px;
+  margin-top: -430px;
+  margin-bottom: 250px;
   margin-right: -135px;
   float: right;
   transition: 1s;
